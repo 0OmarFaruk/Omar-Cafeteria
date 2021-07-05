@@ -1,0 +1,94 @@
+body {
+  font-family: "Acme", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 85px;
+}
+h2 {
+  font-size: 80px;
+  color: rgb(3, 37, 21);
+}
+h3 {
+  color: rgb(2, 48, 17);
+  font-size: 40px;
+}
+#first-heading {
+  font-size: 90px;
+  text-align: center;
+  color: crimson;
+  background-image: radial-gradient(rgb(2, 12, 70), rgb(48, 5, 5));
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 30px;
+  border-radius: 10px;
+}
+#omar {
+  color: brown;
+}
+.half img {
+  width: 90%;
+}
+.s-display {
+  display: flex;
+}
+.s1-bg {
+  background-image: url(shapes/Frame\ 59.jpg);
+  background-repeat: no-repeat;
+}
+.s2-bg {
+  background-image: url(shapes/Frame\ 57.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.s3-bg {
+  background-image: url(shapes/Frame\ 56.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.half {
+  width: 40%;
+  margin: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+}
+.div-p {
+  font-size: 22px;
+  border: 7px solid;
+  border-radius: 10px;
+  border-image: linear-gradient(rgb(46, 11, 13), rgb(146, 24, 24));
+  border-image-slice: 8;
+  padding: 10px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: radial-gradient(red, tomato);
+  color: black;
+  margin: 2px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+#re-head {
+  text-align: center;
+}
+#resipe {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: -3%;
+}
+.img-radius {
+  border-radius: 20px;
+}
+.my-recipe {
+  border-radius: 20px;
+  padding-left: 7%;
+  padding-top: 3%;
+  box-shadow: 10px 10px 40px rgb(12, 0, 56);
+}
+.p-div {
+  margin-left: 10%;
+  margin-right: 10%;
+}
