@@ -92,3 +92,23 @@ h3 {
   margin-left: 10%;
   margin-right: 10%;
 }
+.followers {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  padding: 1px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px rgb(56, 0, 35);
+}
+footer {
+  color: rgb(154, 248, 236);
+  background-color: rgb(41, 1, 1);
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 15px;
+  padding-bottom: 50px;
+  text-align: center;
+}
