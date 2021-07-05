@@ -6,7 +6,7 @@ h1 {
   font-size: 85px;
 }
 h2 {
-  font-size: 80px;
+  font-size: 70px;
   color: rgb(3, 37, 21);
 }
 h3 {
@@ -97,7 +97,8 @@ h3 {
   margin-right: 300px;
   margin-top: 150px;
   margin-bottom: 150px;
-  padding: 1px;
+  padding-top: 3px;
+  padding-bottom: 40px;
   border-radius: 10px;
   box-shadow: 10px 10px 40px rgb(56, 0, 35);
 }
@@ -111,4 +112,12 @@ footer {
   padding-top: 15px;
   padding-bottom: 50px;
   text-align: center;
+}
+.closer {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.closer1 {
+  margin-top: 0;
+  padding-top: 0;
 }
